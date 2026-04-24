@@ -1,10 +1,16 @@
-# ![Kaneboard](https://img.shields.io/badge/KANEBOARD-0d1117?style=for-the-badge&logo=trello&logoColor=4ade80) — Project Management for Modern Teams
+<p align="center">
+  <img src="assets/logo.svg" alt="Kaneboard Logo" width="96" />
+</p>
 
-[![Website](https://img.shields.io/badge/kaneboard.com-live-4ade80?style=flat-square&logo=google-chrome&logoColor=white)](https://kaneboard.com)
-[![Laravel](https://img.shields.io/badge/Laravel-12.x-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com)
-[![Vue.js](https://img.shields.io/badge/Vue.js-3.x-42b883?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org)
-[![PHP](https://img.shields.io/badge/PHP-8.2+-777BB4?style=flat-square&logo=php&logoColor=white)](https://php.net)
-[![License](https://img.shields.io/badge/License-Proprietary-red?style=flat-square)](#license)
+<h1 align="center">Kaneboard — Project Management for Modern Teams</h1>
+
+<p align="center">
+  <a href="https://kaneboard.com"><img src="https://img.shields.io/badge/kaneboard.com-live-4ade80?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"></a>
+  <a href="https://laravel.com"><img src="https://img.shields.io/badge/Laravel-12.x-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"></a>
+  <a href="https://vuejs.org"><img src="https://img.shields.io/badge/Vue.js-3.x-42b883?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js"></a>
+  <a href="https://php.net"><img src="https://img.shields.io/badge/PHP-8.2+-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"></a>
+  <img src="https://img.shields.io/badge/License-Proprietary-red?style=flat-square" alt="License">
+</p>
 
 > **Kaneboard** is a web-based project management platform built on the [Kanban](https://en.wikipedia.org/wiki/Kanban_(development)) methodology, available at [kaneboard.com](https://kaneboard.com). It provides software development teams with a unified workspace to plan, track, and deliver work — powered by Laravel 12, Vue 3, and an integrated AI assistant called KaneBot.
 
